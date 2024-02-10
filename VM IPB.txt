@@ -1,0 +1,10 @@
+1.IP	10.239.54.23 (existing)
+2.IP    10.239.54.32 (tambahan 1)
+3.IP 	10.239.54.33 (tambahan 2)
+4.IP	10.239.54.34 (tambahan 3)
+5.IP	10.239.54.35 (tambahan 4)
+6.IP	10.239.54.36 (tambahan 5)
+7.IP	10.239.54.37 (tambahan 6)
+
+user: dev
+pass: Lnsw2o23!@
