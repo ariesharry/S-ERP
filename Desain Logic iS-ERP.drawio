@@ -1,29 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T10:36:36.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="46pE2RJgEMENyqWRPdxg" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T10:42:47.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QrgIyftYF_9cOhX1tke_" version="24.0.4" type="github">
   <diagram name="Page-1" id="95I5bEfrQiCTy4EvcoFb">
-    <mxGraphModel dx="1050" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-1" value="Requirements Engineering" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="231" y="170" width="399" height="260" as="geometry" />
+          <mxGeometry x="231" y="180" width="399" height="280" as="geometry" />
         </mxCell>
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SbKAiJA-bMWMZLkhzkx5-3" target="SbKAiJA-bMWMZLkhzkx5-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="90" width="70" height="50" as="geometry" />
+          <mxGeometry x="395.5" y="110" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-5" value="RO1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SbKAiJA-bMWMZLkhzkx5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SbKAiJA-bMWMZLkhzkx5-6" target="SbKAiJA-bMWMZLkhzkx5-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-6" value="Data gathering" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="220" width="160" height="40" as="geometry" />
+          <mxGeometry x="350.5" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SbKAiJA-bMWMZLkhzkx5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SbKAiJA-bMWMZLkhzkx5-7" target="SbKAiJA-bMWMZLkhzkx5-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-7" value="Defining Key Business Process (KBP) in ERP: KBP&lt;sub&gt;&lt;i&gt;i&lt;/i&gt;&lt;/sub&gt;&amp;nbsp;= {KBP&lt;sub&gt;&lt;i&gt;1,&amp;nbsp;&lt;/i&gt;&lt;/sub&gt;KBP&lt;sub&gt;&lt;i&gt;2&lt;/i&gt;&lt;/sub&gt;,...,KBP&lt;sub&gt;&lt;i&gt;n&lt;/i&gt;&lt;/sub&gt;}" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-8" value="Defining Data in ERP (DE) related to KBP:&amp;nbsp;&lt;div&gt;&lt;sub&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;DE&lt;/span&gt;&lt;i&gt;i&lt;/i&gt;&lt;/sub&gt;&amp;nbsp;= {DE&lt;sub&gt;&lt;i&gt;1, &lt;/i&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;DE&lt;/span&gt;&lt;/sub&gt;&lt;sub&gt;&lt;i&gt;2&lt;/i&gt;&lt;/sub&gt;,...,DE&lt;sub&gt;&lt;i&gt;n&lt;/i&gt;&lt;/sub&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="340" width="280" height="40" as="geometry" />
+          <mxGeometry x="290.5" y="340" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SbKAiJA-bMWMZLkhzkx5-11" value="Defining Sustainability Indicators (SI):&amp;nbsp;&lt;div&gt;&lt;sub&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;SI&lt;/span&gt;&lt;i&gt;n&lt;/i&gt;&lt;/sub&gt;&amp;nbsp;= {DE&lt;sub&gt;&lt;i&gt;1, &lt;/i&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;DE&lt;/span&gt;&lt;/sub&gt;&lt;sub&gt;&lt;i&gt;2&lt;/i&gt;&lt;/sub&gt;,...,DE&lt;sub&gt;&lt;i&gt;N&lt;/i&gt;&lt;/sub&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290.5" y="400" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
