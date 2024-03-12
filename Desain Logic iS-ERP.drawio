@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T11:00:09.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Fdb3KumvX2AlMjP3XNy_" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T11:03:13.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pVCGMZV9uU3l7rfvJ7Uu" version="24.0.4" type="github">
   <diagram name="Page-1" id="95I5bEfrQiCTy4EvcoFb">
     <mxGraphModel dx="1313" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,34 +92,28 @@
           <mxGeometry x="415.75" y="520" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-40" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="231" y="990" width="399" height="260" as="geometry" />
+          <mxGeometry x="231" y="990" width="399" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="SbKAiJA-bMWMZLkhzkx5-41" value="RO2&lt;div&gt;RO3&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SbKAiJA-bMWMZLkhzkx5-41" value="RO4" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="255" y="1010" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SbKAiJA-bMWMZLkhzkx5-43" target="SbKAiJA-bMWMZLkhzkx5-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SbKAiJA-bMWMZLkhzkx5-43" value="Determining the rule for fetching data DI from ERP database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SbKAiJA-bMWMZLkhzkx5-43" value="iS-ERP model testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290.25" y="1010" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SbKAiJA-bMWMZLkhzkx5-45" target="SbKAiJA-bMWMZLkhzkx5-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SbKAiJA-bMWMZLkhzkx5-45" value="Developing an SI measurement model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SbKAiJA-bMWMZLkhzkx5-45" value="iS-ERP model validation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290.75" y="1070" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SbKAiJA-bMWMZLkhzkx5-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SbKAiJA-bMWMZLkhzkx5-47" target="SbKAiJA-bMWMZLkhzkx5-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SbKAiJA-bMWMZLkhzkx5-47" value="Developing AI algorithms for SI analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SbKAiJA-bMWMZLkhzkx5-47" value="Results reporting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290.75" y="1130" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SbKAiJA-bMWMZLkhzkx5-48" value="Integrating the model with ERP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290.75" y="1190" width="280" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-49" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Model Evaluation&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1125" width="140" height="20" as="geometry" />
+          <mxGeometry x="190" y="1090" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SbKAiJA-bMWMZLkhzkx5-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SbKAiJA-bMWMZLkhzkx5-51" target="SbKAiJA-bMWMZLkhzkx5-43">
           <mxGeometry relative="1" as="geometry" />
